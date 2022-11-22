@@ -2,8 +2,8 @@
 
 - 🎓 Graduated with a Master's Degree in Applied Mathematics from Ecole Normale Supérieure Paris-Saclay
 - 🎓 Graduated with a Bachelor's Degree in Computer Science from Sorbonne Université (Pierre & Marie Curie)
-- 🔬 Focus on Computer Vision and NLP
-- 🌎 Experience in the U.S (Princeton, NJ) for a 6 months internship
+- 🇯🇵 Machine Learning Engineer @ MOLCURE
+- 🔬 Interest in healthcare applications
 - 💬 Speak French, English and Italian
 - 💜 Like Python, C, Java and SQL
 

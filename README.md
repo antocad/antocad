@@ -2,7 +2,7 @@
 
 - 🎓 Graduated with a Master's Degree in Applied Mathematics from Ecole Normale Supérieure Paris-Saclay
 - 🎓 Graduated with a Bachelor's Degree in Computer Science from Sorbonne Université (Pierre & Marie Curie)
-- 🇯🇵 Machine Learning Engineer @ MOLCURE
+- 🇯🇵 AI Research Scientist @ MOLCURE
 - 🔬 Interest in healthcare applications
 - 💬 Speak French, English and Italian
 - 💜 Like Python, C, Java and SQL
